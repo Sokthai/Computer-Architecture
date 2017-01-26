@@ -149,8 +149,8 @@ cout << right << setw(12) << "exponent: " << left << setw(2)
 cout << right << setw(12) << "sign: " << left << setw(9)
 			<< '0' <<  "\tor: " << bit_string[0] << endl;
 
-cout << right << setw(12) <<  "in base 10: " << left << setw(2)
-		<< fixed << setprecision(6)
+cout << right << setw(12) <<  "in base 10: " << left << setw(9)
+		<< fixed << setprecision(1)
 	    << float_32.floating_value_in_32_bits
 		<< "\tor: " << binary << endl;
 }
