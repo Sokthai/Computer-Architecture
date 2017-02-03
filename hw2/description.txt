@@ -1,0 +1,8 @@
+Sokthai Tang.
+sokthaitang@student.uml.edu
+
+I may grade it for 85 percent. because i think all the functionality is seem to be working as requirement. 
+but the code it not really clean. for example, i use more variables than it should be. to approach the problem,
+first i scan 2 number and store to the union, then i add the mantissa parts of the two floating number and take
+only 23 bits of the result and put with the common exponent and the sign. 
+it would take me few hours to finish this homework.
