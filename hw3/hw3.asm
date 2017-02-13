@@ -1,4 +1,4 @@
-;; Paul Geromini Assignment 3   NOTE: AC & AX may the same thing here
+;  NOTE: AC & AX may the same thing here
 
 loop:	lodd myCounter:		; Load the counter of numbers to Accumulator (AX)
 		jzer done:		; If its zero no more nums to do, goto done (check the ax if it is 0 then jump to lebel done)
