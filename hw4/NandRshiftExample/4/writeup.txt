@@ -1,0 +1,8 @@
+Sokthai Tang 
+01676881
+sokthai_tang@student.uml.edu
+
+Assignment 4
+
+In this assignment, i have completed about 60 percents of it. i have the .c and .ll right, but the division in .mc is 
+not working properly. i don't know how to fix and to get it to work. 

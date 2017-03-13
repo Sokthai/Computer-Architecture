@@ -1,0 +1,7 @@
+Sokthai Tang 
+sokthai_tang@student.uml.edu
+
+The Fibonacci assignemnt is 100% completed. This fibanocci is 
+the recursive process, it takes some time to run it. but it returns the value as expected.
+one thing that i noted is when i try to run fibonacci of the value 25, 
+the value become overflow, the result is return with the value of 9489 while it should be 75025.
