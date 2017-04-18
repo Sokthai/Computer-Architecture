@@ -1,0 +1,63 @@
+[stang@mercury tang_sokthai_01676881_hw4]$ ./mic1 promfile.dat multoutput.obj 0
+2048
+
+Read in 112 micro instructions
+Read in 36 machine instructions
+Starting PC is : 0000000000000000  base 10:       0
+Starting SP is : 0000100000000000  base 10:    2048
+
+
+ProgramCounter : 0000000000000100  base 10:       4
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1100000000000000  base 10:   49152
+StackPointer   : 0000011111111111  base 10:    2047
+ARegister      : 0000100111101110  base 10:    2542
+BRegister      : 1111111111111111  base 10:   65535
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000000000  base 10:       0
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 63
+
+Type decimal address to view memory,  q  to quit or  c  to continue: c
+
+The new PC is  : 0000000000000100
+
+
+ProgramCounter : 0000000000001000  base 10:       8
+Accumulator    : 1111111111111111  base 10:   65535
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1100000000000000  base 10:   49152
+StackPointer   : 0000011111111110  base 10:    2046
+ARegister      : 1111111010010110  base 10:   65174
+BRegister      : 0000000000100100  base 10:      36
+CRegister      : 1111111111111111  base 10:   65535
+DRegister      : 0000000000000001  base 10:       1
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 125
+
+Type decimal address to view memory,  q  to quit or  c  to continue: c
+
+The new PC is  : 0000000000001000
+
+
+ProgramCounter : 0000000000001100  base 10:      12
+Accumulator    : 0000000000000000  base 10:       0
+InstructionReg : 1111111111000000  base 10:   65472
+TempInstr      : 1100000000000000  base 10:   49152
+StackPointer   : 0000011111111101  base 10:    2045
+ARegister      : 0000001000001000  base 10:     520
+BRegister      : 1111111111111111  base 10:   65535
+CRegister      : 0000000000000000  base 10:       0
+DRegister      : 0000000000111111  base 10:      63
+ERegister      : 0000000000000000  base 10:       0
+FRegister      : 0000000000000000  base 10:       0
+
+Total cycles   : 377
+
+Type decimal address to view memory,  q  to quit or  c  to continue:
+

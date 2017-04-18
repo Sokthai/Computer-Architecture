@@ -1,0 +1,8 @@
+-run the "make" command to generate a .obj file
+-run ./mic1 prom_mrd.dat Assignment.obj 2048 0
+
+
+
+*note: Assignment.obj is the one that generated from the "make" command
+*2048 0 ; mean to run 2 bytes
+April-3-2017
