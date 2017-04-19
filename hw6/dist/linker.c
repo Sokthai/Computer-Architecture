@@ -40,8 +40,9 @@ int main( int argc, char* argv[]){
     object_file = 1;
   }
 
-  if(object_file = 1) start = 2;
+  if(object_file == 1) start = 2;
   else start = 1;
+  
   
   p1 = fopen("/tmp/daedalus", "w+");
   unlink("/tmp/daedalus");
